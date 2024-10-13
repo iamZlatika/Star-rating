@@ -1,0 +1,12 @@
+.star-rating-container {
+  display: flex;
+}
+
+.star {
+  font-size: 40px;
+  margin: 0;
+  cursor: pointer;
+}
+.star.active {
+  color: rgb(192, 192, 13);
+}
